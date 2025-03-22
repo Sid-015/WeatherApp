@@ -1,4 +1,2 @@
 # WeatherApp
-# WeatherApp
-# WeatherApp
-# WeatherApp
+Built using Javascript. Uses OpenWeatherAPI to pull requested weather results.
